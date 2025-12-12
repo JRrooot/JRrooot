@@ -1,7 +1,7 @@
-# 👋 Hey, I'm **Jaffin Ronald**
+# 👋 Hey, I'm **Jaffin**
 
-### 🌐 Aspiring Cybersecurity Professional
-Passionate about learning cybersecurity through programming and hands-on projects, starting from basic tools and gradually exploring advanced techniques.
+### 🌐 Offensive Security Student  
+Focused on penetration testing, automation, and hands-on projects — starting from basic tools and steadily moving into advanced techniques.
 
 ---
 
@@ -28,6 +28,5 @@ Passionate about learning cybersecurity through programming and hands-on project
 
 ## 📫 Contact
 - Email: j.jaffinronald@gmail.com  
-- LinkedIn: *www.linkedin.com/in/jaffin-ronald-662993262*
 
 ---
