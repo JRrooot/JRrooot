@@ -1,7 +1,5 @@
 ## 👋 About Me
-Cybersecurity enthusiast focused on penetration testing and offensive security.  
-Currently learning ethical hacking through hands-on labs and real-world PoCs.  
-Interested in web application security, vulnerability research, and exploit development.
+Cybersecurity enthusiast focused on penetration testing and offensive security. Currently learning ethical hacking through hands-on labs and real-world PoCs. Interested in web application security, vulnerability research, and exploit development.
 
 ---
 
